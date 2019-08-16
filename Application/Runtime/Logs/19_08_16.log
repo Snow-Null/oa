@@ -1,0 +1,66 @@
+[ 2019-08-16T10:09:48+08:00 ] ::1 /index.php/Admin/Doc/download.html&id=6
+ERR: 非法操作:download.html&id=6
+
+[ 2019-08-16T11:34:04+08:00 ] ::1 /index.php/Admin/Doc/test/guodu.html
+ERR: 非法操作:test
+
+[ 2019-08-16T11:35:43+08:00 ] ::1 /index.php/Admin/Doc/test/guodu.html
+ERR: 非法操作:test
+
+[ 2019-08-16T11:36:50+08:00 ] ::1 /index.php/Admin/Doc/test/guodu.html
+ERR: 非法操作:test
+
+[ 2019-08-16T11:36:57+08:00 ] ::1 /index.php/Admin/Doc/test/guodu.html
+ERR: 非法操作:test
+
+[ 2019-08-16T11:37:11+08:00 ] ::1 /index.php/Admin/Doc/test/guodu.html
+ERR: 非法操作:test
+
+[ 2019-08-16T11:37:25+08:00 ] ::1 /index.php/Admin/Doc/test/guodu.html
+ERR: 非法操作:test
+
+[ 2019-08-16T11:37:44+08:00 ] ::1 /index.php/Admin/Doc/test/guodu.html
+ERR: 非法操作:test
+
+[ 2019-08-16T11:38:33+08:00 ] ::1 /index.php/Admin/Doc/test/guodu.html
+ERR: 非法操作:test
+
+[ 2019-08-16T11:44:35+08:00 ] ::1 /index.php/Admin/Doc/test/guodu.html
+ERR: 非法操作:test
+
+[ 2019-08-16T11:46:15+08:00 ] ::1 /index.php/Admin/Doc/test/guodu.html
+ERR: 非法操作:test
+
+[ 2019-08-16T11:46:33+08:00 ] ::1 /index.php/Admin/Doc/test/guodu.html
+ERR: 非法操作:test
+
+[ 2019-08-16T11:47:00+08:00 ] ::1 /index.php/Admin/Doc/test/guodu.html
+ERR: 非法操作:test
+
+[ 2019-08-16T11:47:55+08:00 ] ::1 /index.php/Admin/Doc/test/guodu.html
+ERR: 非法操作:test
+
+[ 2019-08-16T11:48:14+08:00 ] ::1 /index.php/Admin/Doc/test/guodu.html
+ERR: 非法操作:test
+
+[ 2019-08-16T12:06:58+08:00 ] ::1 /index.php/Admin/Doc/%7B:U('show?id=%275)}
+ERR: 非法操作:{:U('show
+
+[ 2019-08-16T12:07:33+08:00 ] ::1 /index.php/Admin/Doc/%7B:U('show?id=%274)}
+ERR: 非法操作:{:U('show
+
+[ 2019-08-16T13:12:59+08:00 ] ::1 /index.php/Admin/Doc/show.html6
+ERR: 非法操作:show.html6
+
+[ 2019-08-16T13:13:08+08:00 ] ::1 /index.php/Admin/Doc/show.html4
+ERR: 非法操作:show.html4
+
+[ 2019-08-16T13:13:55+08:00 ] ::1 /index.php/Admin/Doc/show.html5
+ERR: 非法操作:show.html5
+
+[ 2019-08-16T13:14:05+08:00 ] ::1 /index.php/Admin/Doc/show.html6
+ERR: 非法操作:show.html6
+
+[ 2019-08-16T15:36:00+08:00 ] ::1 /index.php/Admin/Doc/edit/id/6
+ERR: Think\Controller:displa方法不存在！
+
